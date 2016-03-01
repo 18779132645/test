@@ -1,0 +1,8 @@
+Main(){
+	print "hello word"
+}
+metho(){
+print "my name is"
+}
+
+ªÍ«£√Œ›”µÿ
